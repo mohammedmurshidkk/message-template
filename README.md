@@ -70,3 +70,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+## 🖼️ Screenshots
+
+![Scrolling Window Animation](screenshots/screen1.png) 
+![Scrolling Window Animation](screenshots/screen2.png)
